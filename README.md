@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Angel%20Palanques&fontAlign=70&fontAlignY=50&fontSize=42&fontColor=e2e8f0&desc=Software%20Developer%20%7C%20AI%20Automation%20%E2%80%94%20NTT%20Data%20%C2%B7%20Valencia&descAlign=70&descAlignY=68&descSize=14&descColor=94a3b8)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Angel%20Palanques&fontAlign=70&fontAlignY=50&fontSize=42&fontColor=e2e8f0&desc=Software%20Developer%20%C2%B7%20Valencia%2C%20Spain&descAlign=70&descAlignY=68&descSize=14&descColor=94a3b8)
 
 <br/>
 
