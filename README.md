@@ -3,7 +3,7 @@
 <br/>
 
 <p align="right">
-  <a href="https://angelpalanques.dev"><img src="https://img.shields.io/badge/angelpalanques.dev-%E2%86%97-0f3460?style=flat-square&logoColor=white" /></a>
+  <a href="https://angelpalanques.dev"><img src="https://img.shields.io/badge/angelpalanques.dev-%E2%86%97-0f3460?style=flat-square" /></a>
   &nbsp;
   <a href="https://linkedin.com/in/angel-palanques-2aab11345"><img src="https://img.shields.io/badge/LinkedIn-%E2%86%97-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
@@ -18,19 +18,19 @@ Currently deepening expertise in **AI agent workflows**, **MCP Protocol** integr
 
 <br/>
 
-## 💼  Focus Areas
+## 💼 Focus Areas
 
 | Area | Stack |
 |---|---|
-| 🔧 **Backend & APIs** | Node.js · Python · REST · Express |
+| 🔧 **Backend** | Node.js · Python · REST APIs · Express |
 | 🌐 **Frontend** | React · HTML5 · CSS3 · JS/TS |
-| 🤖 **AI & Automation** | OpenCode · OpenAI · MCP Protocol · Prompt Engineering |
-| ☁️ **Cloud & DevOps** | AWS · Cloudinary · Git · Linux |
+| 🤖 **AI Automation** | OpenCode · OpenAI · MCP Protocol · Prompt Engineering |
+| ☁️ **Cloud** | AWS · Cloudinary · Git · Linux |
 | 📈 **Business Impact** | SEO Técnico · Web Performance · Process Automation |
 
 <br/>
 
-## 🛠️  Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -55,7 +55,7 @@ Currently deepening expertise in **AI agent workflows**, **MCP Protocol** integr
 
 <br/>
 
-## 📊  Activity
+## 📊 Activity
 
 <a href="https://github.com/AngelDX7">
   <img width="100%" src="https://streak-stats.demolab.com?user=AngelDX7&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" />
@@ -66,7 +66,7 @@ Currently deepening expertise in **AI agent workflows**, **MCP Protocol** integr
 ---
 
 <p align="center">
-  <sub>© Angel Palanques · Valencia, Spain · <a href="https://angelpalanques.dev">angelpalanques.dev</a></sub>
+  <sub>Angel Palanques · Valencia, Spain · <a href="https://angelpalanques.dev">angelpalanques.dev</a></sub>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f3460,50:16213e,100:1a1a2e&height=80&section=footer&reversal=true" />
