@@ -1,129 +1,72 @@
-<!--
-  Angel Palanques — GitHub Profile
-  angelpalanques.dev
--->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:111111&height=3&section=header" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,50:16213e,100:0f3460&height=160&section=header&text=Angel%20Palanques&fontAlign=70&fontAlignY=50&fontSize=42&fontColor=e2e8f0&desc=Software%20Developer%20%26%20AI%20Automation%20%E2%80%94%20NTT%20Data%20%C2%B7%20Valencia&descAlign=70&descAlignY=68&descSize=14&descColor=94a3b8" />
 
 <br/>
 
-<div align="center">
+<p align="right">
+  <a href="https://angelpalanques.dev"><img src="https://img.shields.io/badge/angelpalanques.dev-%E2%86%97-0f3460?style=flat-square&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/angel-palanques-2aab11345"><img src="https://img.shields.io/badge/LinkedIn-%E2%86%97-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:angelpalanques@gmail.com"><img src="https://img.shields.io/badge/Email-%E2%86%97-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-```
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│    Angel Palanques                                    │
-│    Software Developer & AI Automation Specialist      │
-│    NTT Data · Valencia, Spain                         │
-│                                                      │
-│    ❯  angelpalanques.dev                              │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+---
 
-</div>
+**I’m a developer focused on building real business solutions** — reservation systems, workflow automation, and AI-integrated pipelines that reduce cost and improve operations. Based at NTT Data, I work across the full stack with a strong orientation towards measurable outcomes.
+
+Currently deepening expertise in **AI agent workflows**, **MCP Protocol** integrations, and scalable cloud-based automation.
+
+<br/>
+
+## 💼  Focus Areas
+
+| Area | Stack |
+|---|---|
+| 🔧 **Backend & APIs** | Node.js · Python · REST · Express |
+| 🌐 **Frontend** | React · HTML5 · CSS3 · JS/TS |
+| 🤖 **AI & Automation** | OpenCode · OpenAI · MCP Protocol · Prompt Engineering |
+| ☁️ **Cloud & DevOps** | AWS · Cloudinary · Git · Linux |
+| 📈 **Business Impact** | SEO Técnico · Web Performance · Process Automation |
+
+<br/>
+
+## 🛠️  Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/OpenCode-00C58E?style=flat-square&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP%20Protocol-6366f1?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white" />
+</p>
+
+<br/>
+
+## 📊  Activity
+
+<a href="https://github.com/AngelDX7">
+  <img width="100%" src="https://streak-stats.demolab.com?user=AngelDX7&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+</a>
 
 <br/>
 
 ---
 
-### —  About
+<p align="center">
+  <sub>© Angel Palanques · Valencia, Spain · <a href="https://angelpalanques.dev">angelpalanques.dev</a></sub>
+</p>
 
-I build **business-driven web applications** and **AI-powered automation systems** at NTT Data. My work sits at the intersection of solid engineering and measurable business impact — from reservation platforms and workflow automation to integrating LLM agents into real production environments.
-
-Currently focused on **AI-assisted development workflows**, **MCP (Model Context Protocol)** integrations, and scaling automation pipelines that cut operational overhead and drive ROI.
-
-> *I don’t just write code. I build systems that create business value.*
-
-<br/>
-
----
-
-### —  What I’m working on
-
-```yaml
-Current:
-  - Reservation & operations management systems   # Node.js + REST APIs
-  - AI agent integration pipelines                 # OpenCode + MCP Protocol
-  - Web performance & SEO optimization             # Core Web Vitals, Cloudinary
-  - Cloud deployment & content management          # AWS, automation scripts
-
-Learning:
-  - Advanced LLM prompt engineering
-  - Business process automation at scale
-  - Full-stack architecture for SaaS products
-```
-
-<br/>
-
----
-
-### —  Stack
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=3C873A)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Tooling & Infrastructure**
-
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=FCC624)
-
-**AI & Automation**
-
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=terminal&logoColor=00ff88)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
-![MCP Protocol](https://img.shields.io/badge/MCP%20Protocol-000000?style=flat-square&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=flat-square&logo=perplexity&logoColor=white)
-
-<br/>
-
----
-
-### —  Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AngelDX7&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&stroke=0d1117)](https://github.com/AngelDX7)
-
-</div>
-
-<br/>
-
----
-
-### —  Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/■%20angelpalanques.dev-000000?style=for-the-badge&logoColor=white)](https://angelpalanques.dev)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/angel-palanques-2aab11345)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:angelpalanques@gmail.com)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <sub>Building systems that create business value &mdash; Valencia, Spain</sub>
-</div>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0f3460,50:16213e,100:1a1a2e&height=80&section=footer&reversal=true" />
